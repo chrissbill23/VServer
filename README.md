@@ -1,2 +1,2 @@
 # VServer
-First implementation of Viviane Server (VServer) template
+Implementation of Viviane Server (VServer) template
