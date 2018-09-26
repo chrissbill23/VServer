@@ -1,0 +1,17 @@
+{
+  "name": "vivianeserver",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./test/test"
+  },
+  "devDependencies": {
+    "tslint": "^5.9.1",
+    "typescript": "^2.5.3"
+  },
+  "dependencies": {
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "tslint": "^5.11.0"
+  }
+}
