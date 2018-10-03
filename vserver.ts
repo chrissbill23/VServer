@@ -31,7 +31,7 @@ export class VServer extends VAppCreator {
         this.port = port;
         return this;
     }
-    public listent(): void {
+    public listen(): void {
         this.getApp().listen(this.port, () => {
             console.info("Listening on port " + this.port);
         });
